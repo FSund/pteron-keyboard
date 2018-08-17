@@ -1,10 +1,10 @@
-# zuboard
+# pteron keyboard
 An ergonomic keyboard heavily inspired by the [Atreus](https://github.com/technomancy/atreus), [Iris](https://github.com/keebio/iris-case) and [Atreis](https://github.com/dekonnection/atreis) keyboards.
 
-![zuboard switch plate](https://github.com/FSund/zuboard/blob/master/images/switch-plate.png)
+![pteron switch plate](https://github.com/FSund/zuboard/blob/master/images/switch-plate.png)
 
 ## Laser cutting
-The default switch plate is designed for laser cutting using a kerf of 0.1 mm. The switch holes are designed for Cherry MX style switches, and should allow for switch top removal on both Cherry MX/Gateron/etc. and Kailh BOX switches. 
+The default switch plate is designed for laser cutting with a kerf of 0.1 mm. The switch holes are designed for Cherry MX style switches, and should allow for switch top removal on both Cherry MX/Gateron/etc. and Kailh BOX switches. 
 
 There is an alternative switch plate with square holes (`case/switch-plate-square-holes.svg`), which does not allow switch top opening, but which might add some stability to the switches.
 

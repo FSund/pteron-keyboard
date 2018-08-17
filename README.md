@@ -1,6 +1,10 @@
 # pteron keyboard
 An ergonomic keyboard heavily inspired by the [Atreus](https://github.com/technomancy/atreus), [Iris](https://github.com/keebio/iris-case) and [Atreis](https://github.com/dekonnection/atreis) keyboards.
 
+The name *Pteron* is the Ancient greek word for wing (and feather). This was inspired by *Chiroptera*, the scientific name (or order) of bats.
+> The name “Chiroptera” derives from Ancient Greek: χείρ – cheir, “hand” and πτερόν – pteron, “wing”.
+https://en.wikipedia.org/wiki/Bat#Etymology
+
 ![pteron switch plate](https://github.com/FSund/zuboard/blob/master/images/switch-plate.png)
 
 ## Laser cutting

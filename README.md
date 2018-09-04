@@ -27,6 +27,9 @@ The .svg-files can be converted to dxf by first saving as .eps (via for example 
 
     pstoedit -f "dxf_s: -mm -splineasbezier" infile.eps outfile.dxf
 
+## Firmware
+Firmware is available here (in the filip-pteron branch): https://github.com/FSund/qmk_firmware/tree/filip-pteron
+
 ## Design
 The initial inspiration was the [Atreis](https://github.com/dekonnection/atreis) keyboard, but I wanted some more stagger on the ring and pinky fingers. I ended up with a stagger of -0.7 u for the two outer columns, followed by -0.2 u, 0, -0.3 u and -0.4 u. I also removed the top thumb key, and added a key to the thumb cluster. 
 

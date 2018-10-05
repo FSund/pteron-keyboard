@@ -9,13 +9,13 @@ https://en.wikipedia.org/wiki/Bat#Etymology
 
 ## Styles
 #### 38 keys
-<img src="https://github.com/FSund/zuboard/blob/master/images/38key-switch-plate.png" width="560">
+<img src="https://github.com/FSund/zuboard/blob/master/images/38key-switch-plate-filled.png" width="560">
 
 #### 44 keys
-<img src="https://github.com/FSund/zuboard/blob/master/images/44key-switch-plate.png" width="560">
+<img src="https://github.com/FSund/zuboard/blob/master/images/44key-switch-plate-filled.png" width="560">
 
 #### 56 keys
-<img src="https://github.com/FSund/zuboard/blob/master/images/56key-switch-plate.png" width="560">
+<img src="https://github.com/FSund/zuboard/blob/master/images/56key-switch-plate-filled.png" width="560">
 
 ## Laser cutting
 The default switch plate is designed for laser cutting with a kerf of 0.1 mm. The switch holes are designed for Cherry MX style switches, and should allow for switch top removal on both Cherry MX/Gateron/etc. and Kailh BOX switches. 

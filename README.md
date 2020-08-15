@@ -5,7 +5,9 @@ The name *Pteron* is the Ancient greek word for wing (and feather). This was ins
 > The name “Chiroptera” derives from Ancient Greek: χείρ – cheir, “hand” and πτερόν – pteron, “wing”.
 https://en.wikipedia.org/wiki/Bat#Etymology
 
-<img src="https://i.imgur.com/9QhPlVD.jpg" width="640">
+<img src="https://github.com/FSund/pteron-keyboard/blob/master/builds/9QhPlVD.jpg" width="640">
+
+Check the `builds` folder for more photos.
 
 ## Styles
 #### 38 keys

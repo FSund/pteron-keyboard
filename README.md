@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Bat#Etymology
 
 <img src="https://github.com/FSund/pteron-keyboard/blob/master/builds/9QhPlVD.jpg" width="640">
 
-Check the `builds` folder for more photos.
+Check the [builds](/builds/builds.md) folder for more photos.
 
 ## Styles
 #### 38 keys

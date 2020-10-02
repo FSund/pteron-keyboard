@@ -7,7 +7,8 @@ https://en.wikipedia.org/wiki/Bat#Etymology
 
 <img src="https://github.com/FSund/pteron-keyboard/blob/master/builds/9QhPlVD.jpg" width="640">
 
-Check the [builds](/builds/builds.md) folder for more photos.
+Check the [builds](/builds/builds.md) folder for more photos. 
+The 56-key version shown in the photo above is built using 9 mm brass spacers. It can theoretically be built using spacers as small as 5 mm, but that requires very strict cable management.
 
 ## Styles
 #### 38 keys

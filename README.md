@@ -5,7 +5,7 @@ The name *Pteron* is the Ancient greek word for wing (and feather). This was ins
 > The name “Chiroptera” derives from Ancient Greek: χείρ – cheir, “hand” and πτερόν – pteron, “wing”.
 https://en.wikipedia.org/wiki/Bat#Etymology
 
-<img src="https://github.com/FSund/pteron-keyboard/blob/master/builds/9QhPlVD.jpg" width="640">
+<img src="https://github.com/FSund/pteron-keyboard/blob/master/builds/20201002_141317.jpg" width="640">
 
 Check the [builds](/builds/builds.md) folder for more photos. 
 The 56-key version shown in the photo above is built using 9 mm brass spacers. It can theoretically be built using spacers as small as 5 mm, but that requires very strict cable management.

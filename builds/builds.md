@@ -11,7 +11,7 @@ Built by [/u/poteyro](https://www.reddit.com/user/poteyro) over on [reddit](http
 <img src="https://github.com/FSund/pteron-keyboard/blob/master/builds/75030ba.jpg" width="640">
 
 # Kraken-Jokes
-Built by [Kraken-Jokes](https:github.com/KrakenJokes) on [facebook](https://www.facebook.com/MooreKeyboards/posts/127088362516273)
+Built by [Kraken-Jokes](https://github.com/Kraken-Jokes) on [facebook](https://www.facebook.com/MooreKeyboards/posts/127088362516273)
 
 <img src="https://github.com/FSund/pteron-keyboard/blob/master/builds/Pteron56 face.jpg" width="640">
 

@@ -10,6 +10,9 @@ https://en.wikipedia.org/wiki/Bat#Etymology
 Check the [builds](/builds/builds.md) folder for more photos. 
 The 56-key version shown in the photo above is built using 9 mm brass spacers. It can theoretically be built using spacers as small as 5 mm, but that requires very strict cable management.
 
+## PCB
+A PCB version of the pteron is in progress here: https://github.com/kraken-jokes/pteron-pcb
+
 ## Styles
 #### 38 keys
 <img src="https://github.com/FSund/zuboard/blob/master/images/38key-switch-plate-filled.png" width="560">
